@@ -2,7 +2,7 @@
 
 **Status:** Work in Progress  
 
-**Tools:** PSS®E, Microsoft Excel  
+**Tools:** ETAP, Microsoft Excel  
 
 ### Overview
 This project focuses on performing a Distributed Energy Resource (DER) interconnection study to evaluate the integration of a generator into a utility network, ensuring compliance with FortisAlberta and IEEE standards.
