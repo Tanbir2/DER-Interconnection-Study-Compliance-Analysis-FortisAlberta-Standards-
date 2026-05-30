@@ -8,7 +8,7 @@
 This project focuses on performing a Distributed Energy Resource (DER) interconnection study to evaluate the integration of a generator into a utility network, ensuring compliance with FortisAlberta and IEEE standards.
 
 ### Current Scope
-- Conducting DER interconnection study using **PSS®E**  
+- Conducting DER interconnection study using **ETAP**  
 - Performing **short-circuit** and **effective grounding studies**  
 - Evaluating **protection system performance** under fault conditions  
 - Assessing system impacts on **reliability and grid integration**  
